@@ -1,0 +1,5 @@
+.btn-default .dropdown-menu li>a:hover,
+.btn-default .dropdown-menu li>a:focus {
+    background-color: #000 !important;
+    color: #fff !important;
+}
